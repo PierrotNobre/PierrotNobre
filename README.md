@@ -4,7 +4,7 @@
 Sou desenvolvedor de jogos digitais com foco principal em desenvolvimento utilizando Unity e forte interesse em Game Design. Tenho experiência na criação de mecânicas de gameplay, sistemas e protótipos, com base sólida em Programação Orientada a Objetos utilizando C#.
 
 ![Banner](./Assets/PierrotPNG.png)
-Atualmente também faço parte do estúdio independente **Nephila**.
+Atualmente também faço parte do estúdio independente **Nephila**:spider_web:.
 ---
 ## 🚀 Sobre mim
 * 🎓 Formado em Jogos Digitais
