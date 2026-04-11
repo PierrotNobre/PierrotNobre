@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Bruno Martins ou Pierrot
+![Banner](./assets/banner.png)
+🎮 Desenvolvedor de Jogos Digitais | Unity | Game Design
 
-<!--
-**PierrotNobre/PierrotNobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de jogos digitais com foco principal em desenvolvimento utilizando Unity e forte interesse em Game Design. Tenho experiência na criação de mecânicas de gameplay, sistemas e protótipos, com base sólida em Programação Orientada a Objetos utilizando C#.
 
-Here are some ideas to get you started:
+Atualmente também faço parte do estúdio independente **Nephila**.
+---
+## 🚀 Sobre mim
+* 🎓 Formado em Jogos Digitais
+* 🎮 Foco em desenvolvimento com Unity
+* 🧠 Interesse em Game Design e sistemas de gameplay
+* 👥 Experiência com trabalho em equipe e coordenação
+* 🌱 Aprendizado contínuo e desenvolvimento iterativo
+---
+## 🎮 Projetos em Destaque
+### 🍳 Cook & Conquer (Roguelike Procedural)
+Projeto desenvolvido durante o Kickstart da Tapps Games.
+**Principais contribuições:**
+* Geração de mapa procedural
+* Inimigos escaláveis utilizando Scriptable Objects
+* Desenvolvimento de mecânicas de gameplay
+* Implementação em Unity com C#
+* Colaboração com equipe multidisciplinar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📫 Contato
+* Email: pierrotgamedev@gmail.com
+
+---
+✨ Sempre aberto a colaborar em projetos de jogos e novas oportunidades na indústria de games!
