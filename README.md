@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Bruno Martins ou Pierrot
-![Banner](./assets/PierrotPNG.png)
+![Banner](./Assets/PierrotPNG.png)
 🎮 Desenvolvedor de Jogos Digitais | Unity | Game Design
 
 Sou desenvolvedor de jogos digitais com foco principal em desenvolvimento utilizando Unity e forte interesse em Game Design. Tenho experiência na criação de mecânicas de gameplay, sistemas e protótipos, com base sólida em Programação Orientada a Objetos utilizando C#.
