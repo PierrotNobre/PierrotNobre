@@ -41,6 +41,7 @@ Projeto desenvolvido durante a Faculdade de Jogos Digitais.
 
 ### :world_map: [Fiore (Text-Adventure, Criação e desenvolvimento de personagem)](https://github.com/PierrotNobre/Projeto_Fiore)
 Projeto em andamento.
+
 **O projeto fiore é um estudo de GameDesigner, Construção de mundo/Narrativa e aprofundamento no uso de IA, atualmente faço toda a parte da documentação e idealização dos sistemas e uso o codex para implementalos na unity**
 
 ---
