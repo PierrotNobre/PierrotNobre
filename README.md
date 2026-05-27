@@ -23,14 +23,26 @@ Projeto desenvolvido durante o Kickstart da Tapps Games.
 * Implementação em Unity com C#
 * Colaboração com equipe multidisciplinar
 
-### :bar_chart: [Rift Rivals (Roguelike Procedural)](https://github.com/InkNeko-Studio/RiftRivals)
+### :bar_chart: [Rift Rivals (Gerenciamento de equipe e Gacha)](https://github.com/InkNeko-Studio/RiftRivals)
 Projeto desenvolvido durante a Faculdade de Jogos Digitais.
 **Principais contribuições:**
 * HUD Geral, o jogo contava com um sistema de servidor que se conectava na unity, toda a parte visivel da unity foi contruida por mim.
 * Sistema de loja
 * Controle de Cena
   
-## 🚧Atualmente Organizando os repositórios🚧
+### :teddy_bear: [Toy Hunter (Boss Hunter)](https://github.com/InkNeko-Studio/ProjektMonsterSoul)
+Projeto desenvolvido durante a Faculdade de Jogos Digitais.
+**Principais contribuições:**
+* Chefe Slime.
+* Chefe Cubo Magico.
+* Movimentação do personagem e Dash.
+* HUD.
+* Cenário e HUD.
+
+### :world_map: [Fiore](https://github.com/PierrotNobre/Projeto_Fiore)
+Projeto em andamento.
+**O projeto fiore é um estudo de GameDesigner, Construção de mundo/Narrativa e aprofundamento no uso de IA, atualmente faço toda a parte da documentação e idealização dos sistemas e uso o codex para implementalos na unity**
+
 ---
 ## 📫 Contato
 * Email: pierrotgamedev@gmail.com
