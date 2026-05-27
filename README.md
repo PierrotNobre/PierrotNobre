@@ -14,7 +14,7 @@ Atualmente também faço parte do estúdio independente **Nephila**:spider_web:.
 * 🌱 Aprendizado contínuo e desenvolvimento iterativo
 ---
 ## 🎮 Projetos em Destaque
-### 🍳 Cook & Conquer (Roguelike Procedural)
+### 🍳 [Cook & Conquer (Roguelike Procedural)](https://github.com/PierrotNobre/Project_RED)
 Projeto desenvolvido durante o Kickstart da Tapps Games.
 **Principais contribuições:**
 * Geração de mapa procedural
@@ -23,6 +23,13 @@ Projeto desenvolvido durante o Kickstart da Tapps Games.
 * Implementação em Unity com C#
 * Colaboração com equipe multidisciplinar
 
+### :bar_chart: [Rift Rivals (Roguelike Procedural)](https://github.com/InkNeko-Studio/RiftRivals)
+Projeto desenvolvido durante a Faculdade de Jogos Digitais.
+**Principais contribuições:**
+* HUD Geral, o jogo contava com um sistema de servidor que se conectava na unity, toda a parte visivel da unity foi contruida por mim.
+* Sistema de loja
+* Controle de Cena
+  
 ## 🚧Atualmente Organizando os repositórios🚧
 ---
 ## 📫 Contato
